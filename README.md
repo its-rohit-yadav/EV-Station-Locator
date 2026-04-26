@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# EV-Station-Locator
-=======
+
 # EV Charging Station Locator 
 
 This project helps users find nearby EV charging stations.
@@ -18,4 +16,4 @@ This project helps users find nearby EV charging stations.
 
 ## Author
 Rohit
->>>>>>> 02cb115 (Initial commit - EV Station Locator)
+
